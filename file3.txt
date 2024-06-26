@@ -1,8 +1,5 @@
 this is file3 i created
-
-[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-[A[A[C[C[C[C[C[C[C[[C[C>[[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C>file3.txt
-thi is file3
+amazing right
 
 
 
